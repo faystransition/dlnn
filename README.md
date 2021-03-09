@@ -3,19 +3,20 @@
 My codes and hand-on practice for 5 courses in [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning#courses) by Andrew Ng, et al. 
 
 
-## Neural Networks and Deep Learning
+- Neural Networks and Deep Learning
 
-## Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
-## Structuring Machine Learning Projects
-
-
-## Convolutional Neural Networks
-
-## Sequence Models
+- Structuring Machine Learning Projects
 
 
-## Contact
+- Convolutional Neural Networks
+
+- Sequence Models
+
+---
+
+Contact
 
 <p align="left">
 
@@ -28,7 +29,7 @@ My codes and hand-on practice for 5 courses in [Deep Learning Specialization](ht
 </a>
 
 <a href="https://www.linkedin.com/in/feichen-sysu-umn/">
-<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615261966~hmac=e9425da974f02215e5aa040f753e4bb1" width="40" height="40">
+<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615261966~hmac=e9425da974f02215e5aa040f753e4bb1" width="30" height="30">
 </a>
 
 
