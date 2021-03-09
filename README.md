@@ -29,7 +29,7 @@ Contact
 </a>
 
 <a href="https://www.linkedin.com/in/feichen-sysu-umn/">
-<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615261966~hmac=e9425da974f02215e5aa040f753e4bb1" width="36" height="36">
+<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615261966~hmac=e9425da974f02215e5aa040f753e4bb1" width="35" height="35">
 </a>
 
 
